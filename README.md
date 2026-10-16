@@ -6,7 +6,6 @@ An interactive business analytics dashboard built using **Python, Streamlit, Pan
 
 **Live App:** [Open AI Business Analytics Assistant](https://ai-business-analytics-assistant-faapppplorz22v2r7tymhgbz.streamlit.app/)
 
-> Replace `YOUR_STREAMLIT_APP_URL` with your deployed Streamlit app link.
 
 ## 📌 Project Overview
 
